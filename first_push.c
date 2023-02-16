@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-   // printf() displays the string inside quotation
+   // new messages for PRO2 Jira project
    printf("Hello, World!");
    return 0;
 }
